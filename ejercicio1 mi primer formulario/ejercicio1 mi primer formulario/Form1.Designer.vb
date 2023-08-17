@@ -111,7 +111,9 @@ Partial Class formulario
         Me.Controls.Add(Me.Bsalir)
         Me.Controls.Add(Me.Beliminar)
         Me.Controls.Add(Me.Bguardar)
+        Me.KeyPreview = True
         Me.Name = "formulario"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Mi primer Formulario"
         Me.ResumeLayout(False)
         Me.PerformLayout()
