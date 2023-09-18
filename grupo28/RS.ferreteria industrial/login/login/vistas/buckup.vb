@@ -1,7 +1,8 @@
 ﻿
 Imports System.Data.SqlClient
 
-
+'probando 
+'adasdasd
 Public Class buckup
     Dim conex As New SqlConnection("data source=.\SQLEXPRESS;initial catalog=FERRETERIA;integrated security=True ")
 
