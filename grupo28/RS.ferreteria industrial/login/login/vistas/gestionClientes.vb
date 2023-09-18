@@ -1,5 +1,5 @@
 ﻿Public Class gestionClientes
-
+    'gestion cliente
     Dim cli As New Vcliente()
 
     Private Sub gestionProductos_Load(sender As Object, e As EventArgs) Handles MyBase.Load
