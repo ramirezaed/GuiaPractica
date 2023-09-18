@@ -1,8 +1,0 @@
-		
-	PERFILES DE USUARIOS	NOMBRE		CONTRASEÑA
-	
-	ADMIN			admin		admin
-
-	gerente			fran		1234
-
-	empleado		beto		1234		
